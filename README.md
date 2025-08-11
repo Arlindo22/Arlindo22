@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-- 💻 Desenvolvedor Frontend em formação
+- 💻 Desenvolvedor Frontend e Backend em formação
 - 🎯 Focado em **JavaScript**, **HTML5** e **CSS3**
 - 📚 Atualmente estudando **React** e **Node.js**
 - 🌱 Sempre buscando aprender novas tecnologias
