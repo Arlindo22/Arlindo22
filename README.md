@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 💻 Desenvolvedor Frontend em formação
 - 🎯 Focado em **JavaScript**, **HTML5** e **CSS3**
@@ -14,7 +14,7 @@
 - 🌱 Sempre buscando aprender novas tecnologias
 - 💡 Gosto de criar projetos práticos para consolidar o aprendizado
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 </div>
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
   
@@ -37,7 +37,7 @@
 
 </div>
 
-## 🎯 Projetos em Destaque
+## Projetos em Destaque
 
 ### 🧮 [Calculadora de IMC](https://github.com/Arlindo22/CalculadoraIMC)
 - **Tecnologias:** HTML5, CSS3, JavaScript
@@ -45,9 +45,9 @@
 - **Demo:** [Ver aplicação](https://arlindo22.github.io/CalculadoraIMC)
 
 ### 🚀 Outros Projetos
-- 📝 **Sistema de Notas** - CRUD completo com localStorage
-- 🎮 **Jogo da Memória** - Game interativo com CSS Grid
-- 🌤️ **App do Clima** - Consumo de API externa
+- 📝 **Sistema de Notas** - CRUD completo com localStorage(Em desenvolvimento)
+- 🎮 **Jogo da Memória** - Game interativo com CSS Grid(Em desenvolvimento)
+- 🌤️ **App do Clima** - Consumo de API externa(Em desenvolvimento)
 
 ## 📈 Atividade de Desenvolvimento
 
